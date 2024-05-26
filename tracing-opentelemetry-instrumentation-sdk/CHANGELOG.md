@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.18.2](https://github.com/davidB/tracing-opentelemetry-instrumentation-sdk/compare/tracing-opentelemetry-instrumentation-sdk-v0.18.1...tracing-opentelemetry-instrumentation-sdk-v0.18.2) - 2024-05-26
+
+### <!-- 2 -->Added
+- ✨ Add a helper to the sdk to retrieve the span_id ([#140](https://github.com/davidB/tracing-opentelemetry-instrumentation-sdk/pull/140))
+
 ## [0.18.1](https://github.com/davidB/tracing-opentelemetry-instrumentation-sdk/compare/tracing-opentelemetry-instrumentation-sdk-v0.18.0...tracing-opentelemetry-instrumentation-sdk-v0.18.1) - 2024-04-24
 
 ### <!-- 2 -->Added
